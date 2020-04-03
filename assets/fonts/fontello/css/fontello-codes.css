@@ -1,0 +1,16 @@
+
+.icon-mail:before { content: '\e800'; } /* '' */
+.icon-phone:before { content: '\e801'; } /* '' */
+.icon-location:before { content: '\e802'; } /* '' */
+.icon-home:before { content: '\e803'; } /* '' */
+.icon-lock-filled:before { content: '\e804'; } /* '' */
+.icon-cancel-circled:before { content: '\e806'; } /* '' */
+.icon-industrial-building:before { content: '\e822'; } /* '' */
+.icon-town-hall:before { content: '\e83c'; } /* '' */
+.icon-trophy:before { content: '\f074'; } /* '' */
+.icon-mobile:before { content: '\f10b'; } /* '' */
+.icon-angle-circled-left:before { content: '\f137'; } /* '' */
+.icon-angle-circled-right:before { content: '\f138'; } /* '' */
+.icon-building-filled:before { content: '\f1ad'; } /* '' */
+.icon-address-card:before { content: '\f2bb'; } /* '' */
+.icon-lock:before { content: '\f512'; } /* '' */
